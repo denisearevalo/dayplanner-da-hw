@@ -10,3 +10,4 @@ HTML, Bootstrap, CSS, JavaScript and JQuery were used.
 No license "WIP"
 
 Kindly Denise A
+![load page](./assets/dayplanner.gif) 
