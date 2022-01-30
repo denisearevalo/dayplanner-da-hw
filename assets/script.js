@@ -31,7 +31,6 @@ function timeBlocks() {
 
 function handleSave(event) {
   var hour = $(this).parent().attr("id");
-  // save data in textarea in local storage
   localStorage.setItem(moment().format("DDDYYYY") + hour, $("#" + hour + " textarea").val());
 }
 
